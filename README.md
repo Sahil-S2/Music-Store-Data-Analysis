@@ -1,3 +1,5 @@
+![music_analysis](music_analysis.jpg)
+
 # 🎵 Music Store Database Analysis 🎵
 
 ## Table of Contents
@@ -45,7 +47,7 @@ This project leverages SQL to perform data analysis on a structured music store 
 
 The music store dataset consists of 12 primary tables, each containing attributes essential for capturing various aspects of the business operations:
 
-
+![schema_diagram](schema_diagram.png)
 
 
 ## Key Queries
