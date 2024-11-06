@@ -8,7 +8,7 @@
 - [Objectives](#Objectives)
 - [Project Description](#Project-Description)
 - [Technologies Used](#Technologies-Used)
-- [Data Overview](#📊-Data-Overview)
+- [📊 Data Overview](#📊-Data-Overview)
 - [Key Queries](#Key-Queries)
 - [Tools and Technologies Used](#Tools-and-Technologies-Used)
   
