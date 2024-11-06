@@ -34,7 +34,7 @@ Our main objective is to empower the music store with data-driven insights that 
 
 ## Project Description
 
-This project leverages SQL to perform data analysis on a structured music store database, which includes 12 interrelated tables. These tables capture information about employees, customers, invoices, tracks, playlists, artists, and more. The SQL queries developed for this project address various business questions, providing insights into customer preferences, sales performance, and top-selling music genres.
+This project leverages SQL to perform data analysis on a structured music store database, which includes 11 interrelated tables. These tables capture information about employees, customers, invoices, tracks, playlists, artists, and more. The SQL queries developed for this project address various business questions, providing insights into customer preferences, sales performance, and top-selling music genres.
 
 ## Technologies Used
 
